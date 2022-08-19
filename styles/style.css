@@ -1,0 +1,49 @@
+
+
+
+.title{
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+img{
+    width: 200px;
+    height: 150px;
+}
+.cards {
+    margin-left: 690px;
+    margin-top: 200px;
+    display: flex;
+  
+}
+.textm{
+    font-size: 24px;
+    font-weight: 700;
+}
+input{
+    margin-left: 100px;
+}
+.btn{
+    margin-left: 100px;
+}
+.boxes{
+    display: flex;
+    margin-left: 350px;
+   
+}
+.box1{
+    margin: 50px;
+    text-align: center;
+}
+.box2 {
+    margin: 50px;
+    text-align: center;
+}
+.box3 {
+    margin: 50px;
+    text-align: center;
+}
+.box4 {
+    margin: 50px;
+    text-align: center;
+}
